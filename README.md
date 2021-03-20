@@ -1,0 +1,2 @@
+# techProject
+My  automation repository
